@@ -16,11 +16,11 @@
 
 ### Screenshot
 
-![]()
+![](images/Rosalia%20Ley%20-%20Screenshot%20Stats%20preview%20card%20component%20copy.png)
 
 ### Links
 
-- Live Site URL: []()
+- [Live Site](https://rosalialey.github.io/stats-preview-card-component/)
 
 ### Built with
 

@@ -129,10 +129,10 @@ span {
     }
 
     .stats {
-        padding: 1em 0;
         text-align: start;
         display: inline-block;
         margin: 2em 0 0 1.6em;
+        padding: 1em 0;
     }
 
     span {

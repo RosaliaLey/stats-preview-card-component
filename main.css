@@ -38,7 +38,11 @@ main {
     border-radius: 0.5em 0.5em 0 0;
 }
 
-h1, p, .stats, .attribution {
+h1, p {
+    text-align: center;
+}
+
+.stats, .attribution {
     text-align: center;
 }
 
